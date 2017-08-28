@@ -1,4 +1,4 @@
-#Asteroid Ranger
+# Asteroid Ranger
 [Source](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4037 "The 2012 ACM ICPC Warsaw World Final") 
 
 The year is 2112 and humankind has conquered the solar system. The Space Ranger Corps have set
