@@ -8,7 +8,7 @@ Terdapat 3 buah soal yang terdiri berdasarkan materi pada Batch 1 yaitu:
 * Stack & Queue
 * Tree & Graph
 
-Dikerjakan langsung pada file yang telah disediakan pada repository masing-masing. Soal-soal tersebut bersifat wajib dan dikerjakan secara mandiri. Disarankan untuk berdiskusi dengan teman kelompoknya atau dapat menghubungi Aslab dan Pemateri Batch 1 jika menemukan kesulitan. Batas pengumpulan: 5 September 2017 23:59 WIB. Selamat mengerjakan :)
+Dikerjakan langsung pada file yang telah disediakan pada repository masing-masing. Soal-soal tersebut bersifat wajib dan dikerjakan secara mandiri. Disarankan untuk berdiskusi dengan teman kelompoknya atau dapat menghubungi Aslab dan Pemateri Batch 1 jika menemukan kesulitan. Batas pengumpulan: 7 September 2017 23:59 WIB. Selamat mengerjakan :)
 
 ### Soal 1
 Buatlah algoritma sorting menggunakan Insertion Sort, bagi yang masih belum paham tentang sorting bisa dipelajari di https://visualgo.net/en/sorting
