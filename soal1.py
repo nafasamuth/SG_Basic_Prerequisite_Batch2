@@ -13,8 +13,8 @@ def insertionSort(list):
      currentvalue = list[index]
      position = index
 
-     while position>0 and alist[position-1]>currentvalue:
-         alist[position]=alist[position-1]
+     while position>0 and list[position-1]>currentvalue:
+         list[position]=list[position-1]
          position = position-1
 
      alist[position]=currentvalue
