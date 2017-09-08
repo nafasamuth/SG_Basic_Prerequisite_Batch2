@@ -17,7 +17,7 @@ def insertionSort(list):
          list[position]=list[position-1]
          position = position-1
 
-     alist[position]=currentvalue
+     list[position]=currentvalue
 
 list = arr
 insertionSort(arr)
